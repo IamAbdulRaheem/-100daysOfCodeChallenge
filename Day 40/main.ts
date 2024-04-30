@@ -10,7 +10,7 @@ for (let index = 1; index <= 10; index++) {
 let countDown= 5
 while (countDown>=1) {
     console.log("Hello World!");
-    countDown--;    // This updation is necessary to prevent it to run infinite time throught this it will only run until its condition is true
+    countDown--;    // This updation is necessary to prevent it to run infinite time through this updation it will only run until its condition is true
 }
 
 

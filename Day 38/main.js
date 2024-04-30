@@ -7,8 +7,8 @@ countries.set("India", "Delhi");
 console.log(countries);
 // Task 113: check if Map contains key or not
 function logCapitalOfCanada(countries) {
-    if (countries.has("Canada")) {
-        console.log(`The Capital of Canada is ${countries.get("Canada")}`);
+    if (countries.has("Pakistan")) {
+        console.log(`The Capital of Pakistan is ${countries.get("Pakistan")}`);
     }
     else {
         console.log("Canada is not in the list.");

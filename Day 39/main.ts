@@ -70,4 +70,4 @@ logSeasons(5);
 
 logDaysOfWeeks(8);  // It will print the default value because we have given the cases that are valid upto the number 7
 
-// So output will be Enter a valid dayNumber
+// So output will be Enter a valid dayNumber which we set as a default value

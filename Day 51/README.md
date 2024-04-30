@@ -1,3 +1,8 @@
+Day-51 Task:
+Read the following article: Top 10 programming tips for beginners
+ https://www.geeksforgeeks.org/programming-tips-for-beginners/
+
+
 Alhamdulillah, we've successfully completed 50 days of the 100-day coding challenge, meaning we are 50% done. For the remaining days, I propose a new approach to deepen our understanding of programming and web fundamentals.
 
 I've realized that a strong grasp of the basics is essential for understanding how things work behind the scenes, implementing projects, and more. Therefore, starting from day 51, I will share a daily video or article focusing on technical concepts. This will help build your logic and enhance your ability to apply these concepts to your projects.
@@ -10,10 +15,4 @@ Remember, becoming a successful developer/engineer involves more than just codin
 
 While there are many benefits to this approach, I won’t go into all of them here. However, I believe you will find it very beneficial in various ways.
 
-Please share what you learn on LinkedIn and commit your code (if applicable) to GitHub. This allows us as instructors to see your progress and what new concepts you've grasped.
 
-Thank you, Asharib Ali
-
-Day-51 Task:
-Read the following article: Top 10 programming tips for beginners
- https://www.geeksforgeeks.org/programming-tips-for-beginners/
