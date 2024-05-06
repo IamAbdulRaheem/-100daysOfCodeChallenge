@@ -1,10 +1,9 @@
 **Setup**
 ---
 **1.Install Git**
-<ul style="list-style-type:circle;">
-  <li>Download Git from the official website:<a href="https://git-scm.com/downloads">Git Downloads.</a></li>
-  <li>Tea</li>
-  <li>Milk</li>
+<ul dir="auto">
+<li>Download Git from the official website: <a href="https://git-scm.com/downloads" rel="nofollow">Git Downloads</a>.</li>
+<li>Follow the installation instructions for your specific operating system.</li>
 </ul>
 
 
