@@ -1,20 +1,4 @@
 "TypeScript is JavaScript with syntax for types. It is all about type safety. Sometimes JavaScript exhibits unexpected behavior. For example, if you write:
-```html
-<button class="copy-button"></button>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const codeBlocks = document.querySelectorAll('pre > code');
-    codeBlocks.forEach((codeBlock) => {
-        const button = document.createElement('button');
-        button.className = 'copy-button';
-        button.textContent = 'Copy';
-        codeBlock.parentNode.insertBefore(button, codeBlock);
-        button.addEventListener('click', () => {
-            navigator.clipboard.writeText(codeBlock.textContent);
-        });
-    });
-});
-</script>
 
 ```typescript
 2 + "2";
