@@ -1,5 +1,5 @@
 "TypeScript is JavaScript with syntax for types. It is all about type safety. Sometimes JavaScript exhibits unexpected behavior. For example, if you write:
-
+```html
 <button class="copy-button"></button>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
