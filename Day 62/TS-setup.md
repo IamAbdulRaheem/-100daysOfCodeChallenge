@@ -110,9 +110,9 @@ This command will generate a **tsconfig.json** file in your project directory, i
 
 **outDir:** Specifies the output directory for compiled JavaScript files. (that folder and file are going to be generated)
 
-4.Save tsconfig.json: Save your changes to the **tsconfig.json** file if you made any customizations.
+4.**Save tsconfig.json:** Save your changes to the **tsconfig.json** file if you made any customizations.
 
-5.Compile Your TypeScript Code: After creating and configuring **tsconfig.json**, compile your TypeScript code by running:
+5.**Compile Your TypeScript Code:** After creating and configuring **tsconfig.json**, compile your TypeScript code by running:
 ```html
 tsc
 ```
