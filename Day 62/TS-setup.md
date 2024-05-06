@@ -66,6 +66,7 @@ console.log(Math.floor(11.3));
 cd /desktop/typescript/
 ```
 **Compile TypeScript to JavaScript:**
+
 1.Use the **tsc** command to compile it into JavaScript. For example:
 ```html
 tsc
@@ -93,7 +94,7 @@ This will execute your JavaScript code, and you should see the output in the ter
 - Create a **src** folder.
 - Move the **index.ts** file into the newly created **src** folder.
 
-2.Generate a **tsconfig.json File:** Create a **tsconfig.json** file with default settings using this command:
+2.**Generate a tsconfig.json File:** Create a **tsconfig.json** file with default settings using this command:
 ```html
 tsc --init
 ```
@@ -102,8 +103,11 @@ This command will generate a **tsconfig.json** file in your project directory, i
 3.**Customize tsconfig.json (Optional):** Open the **tsconfig.json** file in a text editor to tailor compiler options to your project's needs. Pay special attention to these key configurations:
 
 1."rootDir": "./src"
+
 **rootDir:** Defines the root directory for TypeScript source files.
+
 2."outDir": "./dist"
+
 **outDir:** Specifies the output directory for compiled JavaScript files. (that folder and file are going to be generated)
 
 4.Save tsconfig.json: Save your changes to the **tsconfig.json** file if you made any customizations.
