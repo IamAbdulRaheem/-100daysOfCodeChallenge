@@ -1,7 +1,5 @@
 "TypeScript is JavaScript with syntax for types. It is all about type safety. Sometimes JavaScript exhibits unexpected behavior. For example, if you write:
 
-```typescript
-2 + "2";
 <button class="copy-button"></button>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -18,6 +16,10 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+```typescript
+2 + "2";
+
+```
 It will return '22'. However, with TypeScript, all of these problems just disappear.
 
 TypeScript is a programming language built on top of JavaScript. It enhances JavaScript by offering several features that aid in creating more robust and maintainable applications while reducing development time. The most significant feature TypeScript provides is static typing.
