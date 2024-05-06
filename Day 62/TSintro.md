@@ -24,10 +24,33 @@ But this is not the only reason to learn TypeScript.
 
 **Why Should You Learn TypeScript?**
 ---
-High Industry Demand: Many companies seek proficiency in TypeScript, making it a valuable skill in the job market.
-As you know, JavaScript can be as complex as quantum mechanics, but TypeScript simplifies it and makes it more reliable
-Efficiency: TypeScript reduces the need for extensive unit testing, saving time and effort.
-Error Prevention and Quick Feedback: TypeScript detects errors before runtime, providing instant feedback for faster and more reliable development.
-Seamless Integration: It seamlessly integrates with JavaScript, making adoption painless.
-Framework Empowerment: TypeScript enhances popular frameworks like React, Vue, and Angular with advanced features such as interfaces, generics, and decorators.
+1.High Industry Demand: Many companies seek proficiency in TypeScript, making it a valuable skill in the job market.
 
+2.As you know, JavaScript can be as complex as quantum mechanics, but TypeScript simplifies it and makes it more reliable
+
+3.Efficiency: TypeScript reduces the need for extensive unit testing, saving time and effort.
+
+4.Error Prevention and Quick Feedback: TypeScript detects errors before runtime, providing instant feedback for faster and more reliable development.
+
+5.Seamless Integration: It seamlessly integrates with JavaScript, making adoption painless.
+
+6.Framework Empowerment: TypeScript enhances popular frameworks like React, Vue, and Angular with advanced features such as interfaces, generics, and decorators.
+
+<hr style="border: 5px solid black; border-radius: 5px;">
+
+
+
+**How TypeScript Works**
+---
+- TypeScript Compiler Compiles TS Code into JavaScript Code (This Is Called Transpilation).
+- TypeScript provides static code analysis, identifying potential errors before runtime. It analyzes your code to offer early error detection, enhancing your development process. It's all about code analysis.
+
+I'll explain this further with an example. While TypeScript can hint at issues, it's still possible to encounter errors or squiggly lines in your code, but you can still export your code to JavaScript.
+
+<hr style="border: 5px solid black; border-radius: 5px;">
+
+
+
+**Prerequisite**
+---
+Prerequisite to follow along with this: You only need to have a basic knowledge of JavaScript and a cup of coffee.
