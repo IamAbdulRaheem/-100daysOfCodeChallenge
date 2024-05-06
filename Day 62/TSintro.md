@@ -18,8 +18,9 @@ This is where TypeScript comes in. TypeScript is JavaScript with type checking. 
 You can use TypeScript in a variety of settings, from frontend web development to backend server-side scripting. It seamlessly integrates with JavaScript, allowing you to apply TypeScript's advantages wherever JavaScript is used. Whether you choose TypeScript depends on your project's needs and your development preferences. If you're eager to explore TypeScript further, the next step is setting up your development environment."
 
 But this is not the only reason to learn TypeScript.
+------------------
 
-**---**
+
 
 **Why Should You Learn TypeScript?**
 ---
