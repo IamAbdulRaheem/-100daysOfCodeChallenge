@@ -1,6 +1,10 @@
 **Setup**
 ---
 **1.Install Git**
+ &#9675; First item
+ &#9675; Second item
+ &#9675; Third item
+
 - Download Git from the official website:[Git Downloads](https://git-scm.com/downloads)
 - Follow the installation instructions for your specific operating system.
 **2.Install Visual Studio Code (VSCode):**
