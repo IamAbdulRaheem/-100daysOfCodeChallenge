@@ -69,6 +69,9 @@ In this case, **myVariable** can be assigned a **number** or a **string** or any
 However, it's generally advised to avoid using the **any** type whenever possible in TypeScript for the following reasons:
 
 **1.Loss of Type Safety:**
+
 **2.Reduced Code Reliability:**
+
 **3.Maintenance Challenges:**
+
 **4.Interferes with Tooling:**
