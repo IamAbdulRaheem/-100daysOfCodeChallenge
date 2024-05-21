@@ -1,4 +1,6 @@
-Day 79 of<span style="font-size: 2em; background-color: lightgray;">100-Days-Of-Code</span> Challenge
+<h1 style="font-size: 2em; font-weight: bold; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  Day-79 of <span style="color: #555;">100-Days-Of-Code</span> Challenge
+</h1>
 
 **Day-79 Task:**
 
