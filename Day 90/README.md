@@ -1,6 +1,4 @@
-<h1>
-Day-90 of 100-Days-Of-Code Challenge
-</h1>
+# Day-90 of `100-Days-Of-Code` Challenge
 
 **Day-90 Task:**
 
